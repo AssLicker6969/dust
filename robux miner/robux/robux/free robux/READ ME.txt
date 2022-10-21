@@ -1,0 +1,1 @@
+so just go to google, press extensions(puzzle piece in up right corner) press manage extensions and then turn on developer mode, after that drag the other folder into there
